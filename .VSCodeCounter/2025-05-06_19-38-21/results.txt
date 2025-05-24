@@ -1,0 +1,111 @@
+Date : 2025-05-06 19:38:21
+Directory : /Users/shashanknanda/Documents/programming/html:css:js/studynotion/studynotion
+Total : 62 files,  21555 codes, 81 comments, 338 blanks, all 21974 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JSON       |          4 |     18,967 |          0 |          3 |     18,970 |
+| JavaScript |         43 |      2,195 |         58 |        284 |      2,537 |
+| XML        |         10 |        288 |          0 |          9 |        297 |
+| CSS        |          2 |         46 |          0 |          8 |         54 |
+| Markdown   |          1 |         38 |          0 |         33 |         71 |
+| HTML       |          1 |         20 |         23 |          1 |         44 |
+| Properties |          1 |          1 |          0 |          0 |          1 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                           | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                              |         62 |     21,555 |         81 |        338 |     21,974 |
+| . (Files)                                                                                                                      |          5 |     18,206 |          1 |         37 |     18,244 |
+| public                                                                                                                         |          2 |         45 |         23 |          2 |         70 |
+| src                                                                                                                            |         55 |      3,304 |         57 |        299 |      3,660 |
+| src (Files)                                                                                                                    |          8 |        141 |          7 |         24 |        172 |
+| src/assets                                                                                                                     |          9 |        287 |          0 |          9 |        296 |
+| src/assets (Files)                                                                                                             |          1 |         21 |          0 |          1 |         22 |
+| src/assets/Images                                                                                                              |          4 |        254 |          0 |          4 |        258 |
+| src/assets/TimeLineLogo                                                                                                        |          4 |         12 |          0 |          4 |         16 |
+| src/components                                                                                                                 |         17 |        862 |         30 |        123 |      1,015 |
+| src/components (Files)                                                                                                         |         10 |        558 |         30 |         70 |        658 |
+| src/components/dashboard                                                                                                       |          7 |        304 |          0 |         53 |        357 |
+| src/data                                                                                                                       |          5 |      1,022 |          2 |          4 |      1,028 |
+| src/pages                                                                                                                      |          7 |        733 |          1 |         92 |        826 |
+| src/reducers                                                                                                                   |          3 |         54 |          0 |         12 |         66 |
+| src/reducers (Files)                                                                                                           |          1 |          8 |          0 |          2 |         10 |
+| src/reducers/slices                                                                                                            |          2 |         46 |          0 |         10 |         56 |
+| src/services                                                                                                                   |          6 |        205 |         17 |         35 |        257 |
+| src/services (Files)                                                                                                           |          2 |         55 |         13 |         14 |         82 |
+| src/services/operations                                                                                                        |          4 |        150 |          4 |         21 |        175 |
++--------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                                                                       | language   | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| /Users/shashanknanda/Documents/programming/html:css:js/studynotion/studynotion/.env                                            | Properties |          1 |          0 |          0 |          1 |
+| /Users/shashanknanda/Documents/programming/html:css:js/studynotion/studynotion/README.md                                       | Markdown   |         38 |          0 |         33 |         71 |
+| /Users/shashanknanda/Documents/programming/html:css:js/studynotion/studynotion/package-lock.json                               | JSON       |     18,108 |          0 |          1 |     18,109 |
+| /Users/shashanknanda/Documents/programming/html:css:js/studynotion/studynotion/package.json                                    | JSON       |         52 |          0 |          1 |         53 |
+| /Users/shashanknanda/Documents/programming/html:css:js/studynotion/studynotion/public/index.html                               | HTML       |         20 |         23 |          1 |         44 |
+| /Users/shashanknanda/Documents/programming/html:css:js/studynotion/studynotion/public/manifest.json                            | JSON       |         25 |          0 |          1 |         26 |
+| /Users/shashanknanda/Documents/programming/html:css:js/studynotion/studynotion/src/App.css                                     | CSS        |         43 |          0 |          8 |         51 |
+| /Users/shashanknanda/Documents/programming/html:css:js/studynotion/studynotion/src/App.js                                      | JavaScript |         53 |          0 |          7 |         60 |
+| /Users/shashanknanda/Documents/programming/html:css:js/studynotion/studynotion/src/App.test.js                                 | JavaScript |          7 |          0 |          2 |          9 |
+| /Users/shashanknanda/Documents/programming/html:css:js/studynotion/studynotion/src/assets/Images/Compare_with_others.svg       | XML        |         52 |          0 |          1 |         53 |
+| /Users/shashanknanda/Documents/programming/html:css:js/studynotion/studynotion/src/assets/Images/Know_your_progress.svg        | XML        |         45 |          0 |          1 |         46 |
+| /Users/shashanknanda/Documents/programming/html:css:js/studynotion/studynotion/src/assets/Images/Plan_your_lessons.svg         | XML        |         86 |          0 |          1 |         87 |
+| /Users/shashanknanda/Documents/programming/html:css:js/studynotion/studynotion/src/assets/Images/bghome.svg                    | XML        |         71 |          0 |          1 |         72 |
+| /Users/shashanknanda/Documents/programming/html:css:js/studynotion/studynotion/src/assets/Logo.svg                             | XML        |         21 |          0 |          1 |         22 |
+| /Users/shashanknanda/Documents/programming/html:css:js/studynotion/studynotion/src/assets/TimeLineLogo/Logo1.svg               | XML        |          3 |          0 |          1 |          4 |
+| /Users/shashanknanda/Documents/programming/html:css:js/studynotion/studynotion/src/assets/TimeLineLogo/Logo2.svg               | XML        |          3 |          0 |          1 |          4 |
+| /Users/shashanknanda/Documents/programming/html:css:js/studynotion/studynotion/src/assets/TimeLineLogo/Logo3.svg               | XML        |          3 |          0 |          1 |          4 |
+| /Users/shashanknanda/Documents/programming/html:css:js/studynotion/studynotion/src/assets/TimeLineLogo/Logo4.svg               | XML        |          3 |          0 |          1 |          4 |
+| /Users/shashanknanda/Documents/programming/html:css:js/studynotion/studynotion/src/components/BoldText.js                      | JavaScript |          9 |          0 |          3 |         12 |
+| /Users/shashanknanda/Documents/programming/html:css:js/studynotion/studynotion/src/components/CodeBanner.js                    | JavaScript |         56 |          0 |          7 |         63 |
+| /Users/shashanknanda/Documents/programming/html:css:js/studynotion/studynotion/src/components/DashboardNavbar.js               | JavaScript |         58 |         16 |         10 |         84 |
+| /Users/shashanknanda/Documents/programming/html:css:js/studynotion/studynotion/src/components/Footer.js                        | JavaScript |         40 |          0 |          3 |         43 |
+| /Users/shashanknanda/Documents/programming/html:css:js/studynotion/studynotion/src/components/HighlightedText.js               | JavaScript |          9 |          0 |          3 |         12 |
+| /Users/shashanknanda/Documents/programming/html:css:js/studynotion/studynotion/src/components/Navbar.js                        | JavaScript |         81 |          0 |          9 |         90 |
+| /Users/shashanknanda/Documents/programming/html:css:js/studynotion/studynotion/src/components/PrimaryButton.js                 | JavaScript |          9 |          0 |          3 |         12 |
+| /Users/shashanknanda/Documents/programming/html:css:js/studynotion/studynotion/src/components/Signin.js                        | JavaScript |         84 |          7 |         10 |        101 |
+| /Users/shashanknanda/Documents/programming/html:css:js/studynotion/studynotion/src/components/Signup.js                        | JavaScript |        144 |          7 |         17 |        168 |
+| /Users/shashanknanda/Documents/programming/html:css:js/studynotion/studynotion/src/components/TimeLineSection.js               | JavaScript |         68 |          0 |          5 |         73 |
+| /Users/shashanknanda/Documents/programming/html:css:js/studynotion/studynotion/src/components/dashboard/AddCourse.js           | JavaScript |          9 |          0 |          3 |         12 |
+| /Users/shashanknanda/Documents/programming/html:css:js/studynotion/studynotion/src/components/dashboard/Cart.js                | JavaScript |         99 |          0 |         12 |        111 |
+| /Users/shashanknanda/Documents/programming/html:css:js/studynotion/studynotion/src/components/dashboard/EnrolledCourses.js     | JavaScript |         46 |          0 |         10 |         56 |
+| /Users/shashanknanda/Documents/programming/html:css:js/studynotion/studynotion/src/components/dashboard/InstructorDashboard.js | JavaScript |          9 |          0 |          3 |         12 |
+| /Users/shashanknanda/Documents/programming/html:css:js/studynotion/studynotion/src/components/dashboard/Logout.js              | JavaScript |          9 |          0 |          3 |         12 |
+| /Users/shashanknanda/Documents/programming/html:css:js/studynotion/studynotion/src/components/dashboard/MyCourses.js           | JavaScript |          9 |          0 |          3 |         12 |
+| /Users/shashanknanda/Documents/programming/html:css:js/studynotion/studynotion/src/components/dashboard/MyProfile.js           | JavaScript |        123 |          0 |         19 |        142 |
+| /Users/shashanknanda/Documents/programming/html:css:js/studynotion/studynotion/src/data/countrycode.json                       | JSON       |        782 |          0 |          0 |        782 |
+| /Users/shashanknanda/Documents/programming/html:css:js/studynotion/studynotion/src/data/dashboard-links.js                     | JavaScript |         51 |          1 |          2 |         54 |
+| /Users/shashanknanda/Documents/programming/html:css:js/studynotion/studynotion/src/data/footer-links.js                        | JavaScript |         55 |          0 |          1 |         56 |
+| /Users/shashanknanda/Documents/programming/html:css:js/studynotion/studynotion/src/data/homepage-explore.js                    | JavaScript |        117 |          0 |          0 |        117 |
+| /Users/shashanknanda/Documents/programming/html:css:js/studynotion/studynotion/src/data/navbar-links.js                        | JavaScript |         17 |          1 |          1 |         19 |
+| /Users/shashanknanda/Documents/programming/html:css:js/studynotion/studynotion/src/index.css                                   | CSS        |          3 |          0 |          0 |          3 |
+| /Users/shashanknanda/Documents/programming/html:css:js/studynotion/studynotion/src/index.js                                    | JavaScript |         21 |          3 |          4 |         28 |
+| /Users/shashanknanda/Documents/programming/html:css:js/studynotion/studynotion/src/logo.svg                                    | XML        |          1 |          0 |          0 |          1 |
+| /Users/shashanknanda/Documents/programming/html:css:js/studynotion/studynotion/src/pages/About.js                              | JavaScript |        175 |          0 |         19 |        194 |
+| /Users/shashanknanda/Documents/programming/html:css:js/studynotion/studynotion/src/pages/Contact.js                            | JavaScript |        137 |          0 |         12 |        149 |
+| /Users/shashanknanda/Documents/programming/html:css:js/studynotion/studynotion/src/pages/Dashboard.js                          | JavaScript |         22 |          1 |          6 |         29 |
+| /Users/shashanknanda/Documents/programming/html:css:js/studynotion/studynotion/src/pages/ForgotPassword.js                     | JavaScript |         63 |          0 |         12 |         75 |
+| /Users/shashanknanda/Documents/programming/html:css:js/studynotion/studynotion/src/pages/Home.js                               | JavaScript |        172 |          0 |         25 |        197 |
+| /Users/shashanknanda/Documents/programming/html:css:js/studynotion/studynotion/src/pages/ResetPassword.js                      | JavaScript |         92 |          0 |         11 |        103 |
+| /Users/shashanknanda/Documents/programming/html:css:js/studynotion/studynotion/src/pages/VerifyOtp.js                          | JavaScript |         72 |          0 |          7 |         79 |
+| /Users/shashanknanda/Documents/programming/html:css:js/studynotion/studynotion/src/reducers/rootReducer.js                     | JavaScript |          8 |          0 |          2 |         10 |
+| /Users/shashanknanda/Documents/programming/html:css:js/studynotion/studynotion/src/reducers/slices/authSlice.js                | JavaScript |         19 |          0 |          5 |         24 |
+| /Users/shashanknanda/Documents/programming/html:css:js/studynotion/studynotion/src/reducers/slices/profileSlice.js             | JavaScript |         27 |          0 |          5 |         32 |
+| /Users/shashanknanda/Documents/programming/html:css:js/studynotion/studynotion/src/reportWebVitals.js                          | JavaScript |         12 |          0 |          2 |         14 |
+| /Users/shashanknanda/Documents/programming/html:css:js/studynotion/studynotion/src/services/apiConnector.js                    | JavaScript |         15 |          0 |          2 |         17 |
+| /Users/shashanknanda/Documents/programming/html:css:js/studynotion/studynotion/src/services/apis.js                            | JavaScript |         40 |         13 |         12 |         65 |
+| /Users/shashanknanda/Documents/programming/html:css:js/studynotion/studynotion/src/services/operations/authApi.js              | JavaScript |         65 |          4 |         14 |         83 |
+| /Users/shashanknanda/Documents/programming/html:css:js/studynotion/studynotion/src/services/operations/cartApi.js              | JavaScript |         36 |          0 |          2 |         38 |
+| /Users/shashanknanda/Documents/programming/html:css:js/studynotion/studynotion/src/services/operations/coursesApi.js           | JavaScript |         14 |          0 |          2 |         16 |
+| /Users/shashanknanda/Documents/programming/html:css:js/studynotion/studynotion/src/services/operations/resetPasswordApi.js     | JavaScript |         35 |          0 |          3 |         38 |
+| /Users/shashanknanda/Documents/programming/html:css:js/studynotion/studynotion/src/setupTests.js                               | JavaScript |          1 |          4 |          1 |          6 |
+| /Users/shashanknanda/Documents/programming/html:css:js/studynotion/studynotion/tailwind.config.js                              | JavaScript |          7 |          1 |          2 |         10 |
+| Total                                                                                                                          |            |     21,555 |         81 |        338 |     21,974 |
++--------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
